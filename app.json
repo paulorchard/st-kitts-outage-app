@@ -1,0 +1,23 @@
+{
+  "name": "St Kitts Outage App",
+  "version": "1.0.0",
+  "description": "An application for reporting and viewing service outages in St. Kitts.",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "react-native start",
+    "build": "react-native build",
+    "test": "react-native test"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.64.2",
+    "react-navigation": "^4.4.4",
+    "react-native-maps": "^0.29.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5",
+    "@types/react": "^17.0.2",
+    "@types/react-native": "^0.64.2"
+  },
+  "license": "MIT"
+}
